@@ -1,1 +1,1 @@
-JavaScript is a dynamic, object-oriented prototype programming language.
+JavaScript is a dynamic, object-oriented prototype programming language
